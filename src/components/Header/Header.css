@@ -1,0 +1,78 @@
+header {
+  height: 100vh;
+  padding-top: 7rem;
+  overflow: hidden;
+}
+.header-container {
+  text-align: center;
+  height: 100%;
+  position: relative;
+}
+
+/* === cta ==== */
+.cta {
+  margin-top: 2rem;
+  display: flex;
+  gap: 1.2rem;
+  justify-content: center;
+}
+
+/* ======header socials======== */
+
+.header-socials {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.8rem;
+  position: absolute;
+  left: 0;
+  bottom: 3rem;
+}
+
+.header-socials::after{
+    content: "";
+    width: 1px;;
+    height: 3rem;
+    background-color:#4db5ff ;
+}
+
+/* Tikaram Ac */
+.me{
+    background:linear-gradient(#4db5ff , transparent) ;
+    width: 22rem;
+    height: 30rem;
+    position: absolute;
+    left: calc(50% - 11rem);
+    margin-top: 4rem;
+    border-radius: 12rem 12rem 0rem 0rem;
+    overflow: hidden;
+    padding: 5rem 1.5rem 1.5rem 1.5rem ;
+}
+
+.scroll-down{
+    position: absolute;
+    bottom: 5rem;
+    right: -2.3rem;
+    transform: rotate(90deg);
+    font-weight: 300;
+    font-size: 1rem;
+}
+
+
+/* ==========Media queries (medium devices) */
+
+@media screen and (max-width: 1024px) {
+  header{
+    height: 68vh;
+  }
+}
+/* ==========Media queries (smaller devices) */
+@media screen and (max-width: 600px) {
+  header{
+    height: 100vh;
+  }
+  .header-socials, .scroll-down{
+    display: none;
+  }
+
+}
