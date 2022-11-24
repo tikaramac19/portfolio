@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f15fd81b.css",
+    "main.js": "/portfolio/static/js/main.53f41e02.js",
+    "static/media/wallpaper.png": "/portfolio/static/media/wallpaper.a8a8d9d6e6882bc09243.png",
+    "static/media/Tikaram Ac - CV.pdf": "/portfolio/static/media/Tikaram Ac - CV.afa8d91339623bac26e0.pdf",
+    "static/media/tikuprofile.jpg": "/portfolio/static/media/tikuprofile.62b4088e679c1c627a3e.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.f15fd81b.css.map": "/portfolio/static/css/main.f15fd81b.css.map",
+    "main.53f41e02.js.map": "/portfolio/static/js/main.53f41e02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f15fd81b.css",
+    "static/js/main.53f41e02.js"
+  ]
+}
