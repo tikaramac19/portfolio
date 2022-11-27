@@ -1,6 +1,6 @@
 import React from "react";
 import "./Footer.css";
-import { BsFacebook, BsInstagram, BsTwitter } from "react-icons/bs";
+import { BsFacebook, BsInstagram, BsTwitter,BsGithub } from "react-icons/bs";
 import {FaLinkedin} from "react-icons/fa"
 const Footer = () => {
   return (
@@ -29,18 +29,19 @@ const Footer = () => {
         </li>
       </ul>
       <div className="social-footer">
-        <a href="https://facebook.com">
+        <a href="https://www.facebook.com/tikaram.acharya.7927/" target = "_blank">
           <BsFacebook />
         </a>
-        <a href="https://instagram.com">
+        <a href="https://www.instagram.com/tikaramac/" target = "_blank">
           <BsInstagram />
         </a>
-        <a href="https://twitter.com">
+        <a href="https://twitter.com/tikaramac19" target = "_blank">
           <BsTwitter />
         </a>
-        <a href="https://www.linkedin.com/in/tikaram-ac-91ab471b4/">
+        <a href="https://www.linkedin.com/in/tikaram-ac-91ab471b4/" target = "_blank">
           <FaLinkedin />
         </a>
+        <a href="https://github.com/tikaramac19/" target='_blank'><BsGithub /></a>
       </div>
       <div className="footer-copyright">
         <small>&copy; Tikaram Ac. All rights reserved. </small>
