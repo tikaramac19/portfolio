@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.83e3ade0.css",
-    "main.js": "/portfolio/static/js/main.b48fb100.js",
+    "main.js": "/portfolio/static/js/main.8c470115.js",
     "static/media/wallpaper.png": "/portfolio/static/media/wallpaper.a8a8d9d6e6882bc09243.png",
     "static/media/Tikaram Ac - CV.pdf": "/portfolio/static/media/Tikaram Ac - CV.afa8d91339623bac26e0.pdf",
     "static/media/tour-cards.PNG": "/portfolio/static/media/tour-cards.e9d022167a9fcc52e778.PNG",
@@ -13,10 +13,10 @@
     "static/media/todo.PNG": "/portfolio/static/media/todo.f23c621f026b46a0c7c6.PNG",
     "index.html": "/portfolio/index.html",
     "main.83e3ade0.css.map": "/portfolio/static/css/main.83e3ade0.css.map",
-    "main.b48fb100.js.map": "/portfolio/static/js/main.b48fb100.js.map"
+    "main.8c470115.js.map": "/portfolio/static/js/main.8c470115.js.map"
   },
   "entrypoints": [
     "static/css/main.83e3ade0.css",
-    "static/js/main.b48fb100.js"
+    "static/js/main.8c470115.js"
   ]
 }
