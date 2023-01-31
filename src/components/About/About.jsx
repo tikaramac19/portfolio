@@ -20,19 +20,19 @@ const About = () => {
             <article className="about-card">
               <BsAward className="icons" />
               <h5>Experience</h5>
-              <small>1+ years working</small>
+              <small>0.5+ years working</small>
             </article>
 
             <article className="about-card">
               <FiUsers className="icons" />
               <h5>Client</h5>
-              <small>10+ clients</small>
+              <small>No clients till date</small>
             </article>
 
             <article className="about-card">
               <RiFolder2Line className="icons" />
               <h5>Projects</h5>
-              <small>15+ Completed Projects</small>
+              <small>10+ Completed Projects</small>
             </article>
           </div>
           <p>
